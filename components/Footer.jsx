@@ -6,7 +6,7 @@ const Footer = () => {
       <div className='container mx-auto'>
         <div className='grid grid-cols-1 md:grid-cols-6 gap-8 py-8'>
           <div className='logo'>
-            <img src="/logo.svg" alt="Logo" className='w-32 mb-[1rem] mx-auto md:mx-0' />
+            <img src="./Logo.svg" alt="Logo" className='w-32 mb-[1rem] mx-auto md:mx-0' />
             <p className='px-[74px] md:px-[0]'>Best information about the company gies here but now lorem ipsum is</p>
             <div className='flex items-center gap-4 mt-4 social-icons justify-center md:justify-start'>
               <a href="#"><img className='hover:opacity-80 transition-opacity duration-300' src="./icons/facebook.svg" alt="Facebook" /></a>

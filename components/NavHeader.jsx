@@ -84,7 +84,7 @@ const NavHeader = () => {
             </ul>
           </nav>
           <div className="logo">
-            <Image src="/Logo.svg" alt="Logo" width={120} height={40} />
+            <Image src="./Logo.svg" alt="Logo" width={120} height={40} />
           </div>
           <div className="icons flex gap-4 ml-auto lg:ml-0">
             <a href="" className="hover:text-red-600 transition-colors duration-200 flex items-center gap-2"><Image src="./icons/search-icon.svg" alt="Search" width={24} height={24} /> <span className='hidden md:inline'>Search</span></a>

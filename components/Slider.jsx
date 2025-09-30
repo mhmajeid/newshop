@@ -11,7 +11,7 @@ const Slider = () => {
       <Swiper className="Slider-intro">
         <SwiperSlide>
           <div className="item h-[100%] relative">
-            <Image src="/slider/hero.jpg" height={500} width={10000} alt="Image 1" objectFit="cover" />
+            <Image src="./slider/hero.jpg" height={500} width={10000} alt="Image 1" objectFit="cover" />
           </div>
         </SwiperSlide>  
       </Swiper>
