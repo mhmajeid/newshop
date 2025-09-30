@@ -9,10 +9,10 @@ const Footer = () => {
             <img src="/logo.svg" alt="Logo" className='w-32 mb-[1rem] mx-auto md:mx-0' />
             <p className='px-[74px] md:px-[0]'>Best information about the company gies here but now lorem ipsum is</p>
             <div className='flex items-center gap-4 mt-4 social-icons justify-center md:justify-start'>
-              <a href="#"><img className='hover:opacity-80 transition-opacity duration-300' src="/icons/facebook.svg" alt="Facebook" /></a>
-              <a href="#"><img className='hover:opacity-80 transition-opacity duration-300' src="/icons/instagram.svg" alt="Instagram" /></a>
-              <a href="#"><img className='hover:opacity-80 transition-opacity duration-300' src="/icons/linkedin.svg" alt="LinkedIn" /></a>
-              <a href="#"><img className='hover:opacity-80 transition-opacity duration-300' src="/icons/youtube.svg" alt="YouTube" /></a>
+              <a href="#"><img className='hover:opacity-80 transition-opacity duration-300' src="./icons/facebook.svg" alt="Facebook" /></a>
+              <a href="#"><img className='hover:opacity-80 transition-opacity duration-300' src="./icons/instagram.svg" alt="Instagram" /></a>
+              <a href="#"><img className='hover:opacity-80 transition-opacity duration-300' src="./icons/linkedin.svg" alt="LinkedIn" /></a>
+              <a href="#"><img className='hover:opacity-80 transition-opacity duration-300' src="./icons/youtube.svg" alt="YouTube" /></a>
             </div>
           </div>
           <div className='links'>
@@ -55,10 +55,10 @@ const Footer = () => {
             <h4 className='font-semibold mb-4'>Get app</h4>
             <ul className='space-y-2'>
               <li><a href="#" className='hover:opacity-80 transition-opacity duration-300'>
-                <img className='mx-auto md:mx-0' src="/icons/apple.svg" alt="Download on the App Store" />
+                <img className='mx-auto md:mx-0' src="./icons/apple.svg" alt="Download on the App Store" />
                 </a></li>
               <li><a href="#" className='hover:opacity-80 transition-opacity duration-300'>
-                <img className='mx-auto md:mx-0' src="/icons/google-play.svg" alt="Get it on Google Play" />
+                <img className='mx-auto md:mx-0' src="./icons/google-play.svg" alt="Get it on Google Play" />
                 </a></li>
             </ul>
           </div>

@@ -29,9 +29,9 @@ const CustomerReviews = () => {
             >
               <SwiperSlide>
                 <div className='item'>
-                  <img className='mb-[1rem]' src="/icons/quote-up.svg" alt="" />
+                  <img className='mb-[1rem]' src="./icons/quote-up.svg" alt="" />
                   <p className='text-[24px]'>I never thought shopping online could be this enjoyable.  it's organized, and every click feels purposeful. Finally, an ecommerce experience that feels as good as it looks!</p>
-                  <img className='mt-[1rem] float-right' src="/icons/quote-down.svg" alt="" />
+                  <img className='mt-[1rem] float-right' src="./icons/quote-down.svg" alt="" />
                   <div className='clear-both'></div>
                   <div className="flex items-center gap-1">
                     <figure><img src="./images/customer.png" alt="Customer" /></figure>
@@ -41,9 +41,9 @@ const CustomerReviews = () => {
               </SwiperSlide>
               <SwiperSlide>
                 <div className='item'>
-                  <img className='mb-[1rem]' src="/icons/quote-up.svg" alt="" />
+                  <img className='mb-[1rem]' src="./icons/quote-up.svg" alt="" />
                   <p className='text-[24px]'>I never thought shopping online could be this enjoyable.  it's organized, and every click feels purposeful. Finally, an ecommerce experience that feels as good as it looks!</p>
-                  <img className='mt-[1rem] float-right' src="/icons/quote-down.svg" alt="" />
+                  <img className='mt-[1rem] float-right' src="./icons/quote-down.svg" alt="" />
                   <div className='clear-both'></div>
                   <div className="flex items-center gap-1">
                     <figure><img src="./images/customer.png" alt="Customer" /></figure>
@@ -53,9 +53,9 @@ const CustomerReviews = () => {
               </SwiperSlide>
               <SwiperSlide>
                 <div className='item'>
-                  <img className='mb-[1rem]' src="/icons/quote-up.svg" alt="" />
+                  <img className='mb-[1rem]' src="./icons/quote-up.svg" alt="" />
                   <p className='text-[24px]'>I never thought shopping online could be this enjoyable.  it's organized, and every click feels purposeful. Finally, an ecommerce experience that feels as good as it looks!</p>
-                  <img className='mt-[1rem] float-right' src="/icons/quote-down.svg" alt="" />
+                  <img className='mt-[1rem] float-right' src="./icons/quote-down.svg" alt="" />
                   <div className='clear-both'></div>
                   <div className="flex items-center gap-1">
                     <figure><img src="./images/customer.png" alt="Customer" /></figure>
@@ -65,9 +65,9 @@ const CustomerReviews = () => {
               </SwiperSlide>
               <SwiperSlide>
                 <div className='item'>
-                  <img className='mb-[1rem]' src="/icons/quote-up.svg" alt="" />
+                  <img className='mb-[1rem]' src="./icons/quote-up.svg" alt="" />
                   <p className='text-[24px]'>I never thought shopping online could be this enjoyable.  it's organized, and every click feels purposeful. Finally, an ecommerce experience that feels as good as it looks!</p>
-                  <img className='mt-[1rem] float-right' src="/icons/quote-down.svg" alt="" />
+                  <img className='mt-[1rem] float-right' src="./icons/quote-down.svg" alt="" />
                   <div className='clear-both'></div>
                   <div className="flex items-center gap-1">
                     <figure><img src="./images/customer.png" alt="Customer" /></figure>
