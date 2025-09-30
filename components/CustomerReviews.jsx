@@ -9,12 +9,12 @@ const CustomerReviews = () => {
   return (
     <div className='customer-reviews-section bg-[#F5DFBD] py-[44px] mt-[80px]'>
       <div className="container mx-auto">
-        <div className="flex flex-row gap-[64px] items-center">
+        <div className="grid grid-cols-1 md:grid-cols-2 gap-[64px] items-center">
           
           <div className='image hidden md:block'>
             <img src="./images/review.png" alt="Customer Reviews" className='w-full h-full object-cover' />
           </div>
-          <div className='mx-[47px] md:mx-auto'>
+          <div className=''>
             <Swiper
               spaceBetween={30}
         centeredSlides={true}
