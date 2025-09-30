@@ -23,7 +23,7 @@ const CustomerReviews = () => {
               className="mySwiper"
             >
               <SwiperSlide>
-                <div className='item'>
+                <div className='item w-full'>
                   <img className='mb-[1rem]' src="./icons/quote-up.svg" alt="" />
                   <p className='text-[24px]'>I never thought shopping online could be this enjoyable.  it's organized, and every click feels purposeful. Finally, an ecommerce experience that feels as good as it looks!</p>
                   <img className='mt-[1rem] float-right' src="./icons/quote-down.svg" alt="" />
