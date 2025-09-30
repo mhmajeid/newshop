@@ -6,9 +6,10 @@ import { Swiper, SwiperSlide } from 'swiper/react';
 // Import Swiper styles
 
 import { Pagination } from 'swiper/modules';
-import { Star } from "lucide-react";
 
 const CustomerReviews = () => {
+  const swiperRef = useRef(null);
+
   return (
     <div className='customer-reviews-section bg-[#F5DFBD] py-[44px] mt-[80px]'>
       <div className="container mx-auto">
