@@ -8,99 +8,99 @@ const TABS = [
     products: [
       {
         id: 1, 
-        Rating:"/images/Ratings.svg",
+        Rating:"./images/Ratings.svg",
         name: "Layered Velvet Skirt-Beige", 
         price: "500.00 LE", 
         oldPrice: "700.00 LE", 
-        image: "/images/01.png" 
+        image: "./images/01.png" 
       },
       {
         id: 2, 
-        Rating:"/images/Ratings.svg",
+        Rating:"./images/Ratings.svg",
         name: "Layered Velvet Skirt-Beige", 
         price: "500.00 LE", 
         oldPrice: "700.00 LE", 
-        image: "/images/02.png" 
+        image: "./images/02.png" 
       },
       {
         id: 3, 
-        Rating:"/images/Ratings.svg",
+        Rating:"./images/Ratings.svg",
         name: "Layered Velvet Skirt-Beige", 
         price: "500.00 LE", 
         oldPrice: "700.00 LE", 
-        image: "/images/03.png" 
+        image: "./images/03.png" 
       },
       {
         id: 4, 
-        Rating:"/images/Ratings.svg",
+        Rating:"./images/Ratings.svg",
         name: "Layered Velvet Skirt-Beige", 
         price: "500.00 LE", 
         oldPrice: "700.00 LE", 
-        image: "/images/04.png" 
+        image: "./images/04.png" 
       },
       {
         id: 5, 
-        Rating:"/images/Ratings.svg",
+        Rating:"./images/Ratings.svg",
         name: "Layered Velvet Skirt-Beige", 
         price: "500.00 LE", 
         oldPrice: "700.00 LE", 
-        image: "/images/01.png" 
+        image: "./images/01.png" 
       },
       {
         id: 6, 
-        Rating:"/images/Ratings.svg",
+        Rating:"./images/Ratings.svg",
         name: "Layered Velvet Skirt-Beige", 
         price: "500.00 LE", 
         oldPrice: "700.00 LE", 
-        image: "/images/02.png" 
+        image: "./images/02.png" 
       },
       {
         id: 7, 
-        Rating:"/images/Ratings.svg",
+        Rating:"./images/Ratings.svg",
         name: "Layered Velvet Skirt-Beige", 
         price: "500.00 LE", 
         oldPrice: "700.00 LE", 
-        image: "/images/03.png" 
+        image: "./images/03.png" 
       },
       {
         id: 8, 
-        Rating:"/images/Ratings.svg",
+        Rating:"./images/Ratings.svg",
         name: "Layered Velvet Skirt-Beige", 
         price: "500.00 LE", 
         oldPrice: "700.00 LE", 
-        image: "/images/04.png" 
+        image: "./images/04.png" 
       },
       {
         id: 9, 
-        Rating:"/images/Ratings.svg",
+        Rating:"./images/Ratings.svg",
         name: "Layered Velvet Skirt-Beige", 
         price: "500.00 LE", 
         oldPrice: "700.00 LE", 
-        image: "/images/04.png" 
+        image: "./images/04.png" 
       },
       {
         id: 10, 
-        Rating:"/images/Ratings.svg",
+        Rating:"./images/Ratings.svg",
         name: "Layered Velvet Skirt-Beige", 
         price: "500.00 LE", 
         oldPrice: "700.00 LE", 
-        image: "/images/01.png" 
+        image: "./images/01.png" 
       },
       {
         id: 11, 
-        Rating:"/images/Ratings.svg",
+        Rating:"./images/Ratings.svg",
         name: "Layered Velvet Skirt-Beige", 
         price: "500.00 LE", 
         oldPrice: "700.00 LE", 
-        image: "/images/02.png" 
+        image: "./images/02.png" 
       },
       {
         id: 12, 
-        Rating:"/images/Ratings.svg",
+        Rating:"./images/Ratings.svg",
         name: "Layered Velvet Skirt-Beige", 
         price: "500.00 LE", 
         oldPrice: "700.00 LE", 
-        image: "/images/03.png" 
+        image: "./images/03.png" 
       },
     ],
   },
@@ -110,100 +110,100 @@ const TABS = [
     products: [
       {
         id: 2, 
-        Rating:"/images/Ratings.svg",
+        Rating:"./images/Ratings.svg",
         name: "Layered Velvet Skirt-Beige", 
         price: "500.00 LE", 
         oldPrice: "700.00 LE", 
-        image: "/images/02.png" 
+        image: "./images/02.png" 
       },
       {
         id: 1, 
-        Rating:"/images/Ratings.svg",
+        Rating:"./images/Ratings.svg",
         name: "Layered Velvet Skirt-Beige", 
         price: "500.00 LE", 
         oldPrice: "700.00 LE", 
-        image: "/images/01.png" 
+        image: "./images/01.png" 
       },
       
       {
         id: 3, 
-        Rating:"/images/Ratings.svg",
+        Rating:"./images/Ratings.svg",
         name: "Layered Velvet Skirt-Beige", 
         price: "500.00 LE", 
         oldPrice: "700.00 LE", 
-        image: "/images/03.png" 
+        image: "./images/03.png" 
       },
       {
         id: 4, 
-        Rating:"/images/Ratings.svg",
+        Rating:"./images/Ratings.svg",
         name: "Layered Velvet Skirt-Beige", 
         price: "500.00 LE", 
         oldPrice: "700.00 LE", 
-        image: "/images/04.png" 
+        image: "./images/04.png" 
       },
       {
         id: 5, 
-        Rating:"/images/Ratings.svg",
+        Rating:"./images/Ratings.svg",
         name: "Layered Velvet Skirt-Beige", 
         price: "500.00 LE", 
         oldPrice: "700.00 LE", 
-        image: "/images/01.png" 
+        image: "./images/01.png" 
       },
       {
         id: 6, 
-        Rating:"/images/Ratings.svg",
+        Rating:"./images/Ratings.svg",
         name: "Layered Velvet Skirt-Beige", 
         price: "500.00 LE", 
         oldPrice: "700.00 LE", 
-        image: "/images/02.png" 
+        image: "./images/02.png" 
       },
       {
         id: 7, 
-        Rating:"/images/Ratings.svg",
+        Rating:"./images/Ratings.svg",
         name: "Layered Velvet Skirt-Beige", 
         price: "500.00 LE", 
         oldPrice: "700.00 LE", 
-        image: "/images/03.png" 
+        image: "./images/03.png" 
       },
       {
         id: 8, 
-        Rating:"/images/Ratings.svg",
+        Rating:"./images/Ratings.svg",
         name: "Layered Velvet Skirt-Beige", 
         price: "500.00 LE", 
         oldPrice: "700.00 LE", 
-        image: "/images/04.png" 
+        image: "./images/04.png" 
       },
       {
         id: 9, 
-        Rating:"/images/Ratings.svg",
+        Rating:"./images/Ratings.svg",
         name: "Layered Velvet Skirt-Beige", 
         price: "500.00 LE", 
         oldPrice: "700.00 LE", 
-        image: "/images/04.png" 
+        image: "./images/04.png" 
       },
       {
         id: 10, 
-        Rating:"/images/Ratings.svg",
+        Rating:"./images/Ratings.svg",
         name: "Layered Velvet Skirt-Beige", 
         price: "500.00 LE", 
         oldPrice: "700.00 LE", 
-        image: "/images/01.png" 
+        image: "./images/01.png" 
       },
       {
         id: 11, 
-        Rating:"/images/Ratings.svg",
+        Rating:"./images/Ratings.svg",
         name: "Layered Velvet Skirt-Beige", 
         price: "500.00 LE", 
         oldPrice: "700.00 LE", 
-        image: "/images/02.png" 
+        image: "./images/02.png" 
       },
       {
         id: 12, 
-        Rating:"/images/Ratings.svg",
+        Rating:"./images/Ratings.svg",
         name: "Layered Velvet Skirt-Beige", 
         price: "500.00 LE", 
         oldPrice: "700.00 LE", 
-        image: "/images/03.png" 
+        image: "./images/03.png" 
       },
     ],
   },
@@ -213,99 +213,99 @@ const TABS = [
     products: [
       {
         id: 1, 
-        Rating:"/images/Ratings.svg",
+        Rating:"./images/Ratings.svg",
         name: "Layered Velvet Skirt-Beige", 
         price: "500.00 LE", 
         oldPrice: "700.00 LE", 
-        image: "/images/01.png" 
+        image: "./images/01.png" 
       },
       {
         id: 2, 
-        Rating:"/images/Ratings.svg",
+        Rating:"./images/Ratings.svg",
         name: "Layered Velvet Skirt-Beige", 
         price: "500.00 LE", 
         oldPrice: "700.00 LE", 
-        image: "/images/02.png" 
+        image: "./images/02.png" 
       },
       {
         id: 3, 
-        Rating:"/images/Ratings.svg",
+        Rating:"./images/Ratings.svg",
         name: "Layered Velvet Skirt-Beige", 
         price: "500.00 LE", 
         oldPrice: "700.00 LE", 
-        image: "/images/03.png" 
+        image: "./images/03.png" 
       },
       {
         id: 4, 
-        Rating:"/images/Ratings.svg",
+        Rating:"./images/Ratings.svg",
         name: "Layered Velvet Skirt-Beige", 
         price: "500.00 LE", 
         oldPrice: "700.00 LE", 
-        image: "/images/04.png" 
+        image: "./images/04.png" 
       },
       {
         id: 5, 
-        Rating:"/images/Ratings.svg",
+        Rating:"./images/Ratings.svg",
         name: "Layered Velvet Skirt-Beige", 
         price: "500.00 LE", 
         oldPrice: "700.00 LE", 
-        image: "/images/01.png" 
+        image: "./images/01.png" 
       },
       {
         id: 6, 
-        Rating:"/images/Ratings.svg",
+        Rating:"./images/Ratings.svg",
         name: "Layered Velvet Skirt-Beige", 
         price: "500.00 LE", 
         oldPrice: "700.00 LE", 
-        image: "/images/02.png" 
+        image: "./images/02.png" 
       },
       {
         id: 7, 
-        Rating:"/images/Ratings.svg",
+        Rating:"./images/Ratings.svg",
         name: "Layered Velvet Skirt-Beige", 
         price: "500.00 LE", 
         oldPrice: "700.00 LE", 
-        image: "/images/03.png" 
+        image: "./images/03.png" 
       },
       {
         id: 8, 
-        Rating:"/images/Ratings.svg",
+        Rating:"./images/Ratings.svg",
         name: "Layered Velvet Skirt-Beige", 
         price: "500.00 LE", 
         oldPrice: "700.00 LE", 
-        image: "/images/04.png" 
+        image: "./images/04.png" 
       },
       {
         id: 9, 
-        Rating:"/images/Ratings.svg",
+        Rating:"./images/Ratings.svg",
         name: "Layered Velvet Skirt-Beige", 
         price: "500.00 LE", 
         oldPrice: "700.00 LE", 
-        image: "/images/04.png" 
+        image: "./images/04.png" 
       },
       {
         id: 10, 
-        Rating:"/images/Ratings.svg",
+        Rating:"./images/Ratings.svg",
         name: "Layered Velvet Skirt-Beige", 
         price: "500.00 LE", 
         oldPrice: "700.00 LE", 
-        image: "/images/01.png" 
+        image: "./images/01.png" 
       },
       {
         id: 11, 
-        Rating:"/images/Ratings.svg",
+        Rating:"./images/Ratings.svg",
         name: "Layered Velvet Skirt-Beige", 
         price: "500.00 LE", 
         oldPrice: "700.00 LE", 
-        image: "/images/02.png" 
+        image: "./images/02.png" 
       },
       {
         id: 12, 
-        Rating:"/images/Ratings.svg",
+        Rating:"./images/Ratings.svg",
         name: "Layered Velvet Skirt-Beige", 
         price: "500.00 LE", 
         oldPrice: "700.00 LE", 
-        image: "/images/03.png" 
+        image: "./images/03.png" 
       },
     ],
   },

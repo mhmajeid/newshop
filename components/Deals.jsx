@@ -39,7 +39,7 @@ const Deals = () => {
         >
           <SwiperSlide>
             <div className='card text-center bg-[#F7F5F0]'>
-              <a href="" className='image-link h-[360px] block overflow-hidden mb-[12px]'><img src="/images/01.png" alt="Deal 1" className='mb-4 w-full h-full object-cover hover:scale-105 transition-transform duration-200' /></a>
+              <a href="" className='image-link h-[360px] block overflow-hidden mb-[12px]'><img src="./images/01.png" alt="Deal 1" className='mb-4 w-full h-full object-cover hover:scale-105 transition-transform duration-200' /></a>
               <div className="flex items-center justify-center mb-[8px] gap-1">
                 {[1, 2, 3, 4, 5].map((value) => (
                   <button
@@ -60,7 +60,7 @@ const Deals = () => {
           </SwiperSlide>
           <SwiperSlide>
             <div className='card text-center bg-[#F7F5F0]'>
-              <a href="" className='image-link h-[360px] block overflow-hidden mb-[12px]'><img src="/images/02.png" alt="Deal 1" className='mb-4 w-full h-full object-cover hover:scale-105 transition-transform duration-200' /></a>
+              <a href="" className='image-link h-[360px] block overflow-hidden mb-[12px]'><img src="./images/02.png" alt="Deal 1" className='mb-4 w-full h-full object-cover hover:scale-105 transition-transform duration-200' /></a>
               <div className="flex items-center justify-center mb-[8px] gap-1">
                 {[1, 2, 3, 4, 5].map((value) => (
                   <button
@@ -81,7 +81,7 @@ const Deals = () => {
           </SwiperSlide>
           <SwiperSlide>
             <div className='card text-center bg-[#F7F5F0]'>
-              <a href="" className='image-link h-[360px] block overflow-hidden mb-[12px]'><img src="/images/03.png" alt="Deal 1" className='mb-4 w-full h-full object-cover hover:scale-105 transition-transform duration-200' /></a>
+              <a href="" className='image-link h-[360px] block overflow-hidden mb-[12px]'><img src="./images/03.png" alt="Deal 1" className='mb-4 w-full h-full object-cover hover:scale-105 transition-transform duration-200' /></a>
               <div className="flex items-center justify-center mb-[8px] gap-1">
                 {[1, 2, 3, 4, 5].map((value) => (
                   <button
@@ -102,7 +102,7 @@ const Deals = () => {
           </SwiperSlide>
           <SwiperSlide>
             <div className='card text-center bg-[#F7F5F0]'>
-              <a href="" className='image-link h-[360px] block overflow-hidden mb-[12px]'><img src="/images/04.png" alt="Deal 1" className='mb-4 w-full h-full object-cover hover:scale-105 transition-transform duration-200' /></a>
+              <a href="" className='image-link h-[360px] block overflow-hidden mb-[12px]'><img src="./images/04.png" alt="Deal 1" className='mb-4 w-full h-full object-cover hover:scale-105 transition-transform duration-200' /></a>
               <div className="flex items-center justify-center mb-[8px] gap-1">
                 {[1, 2, 3, 4, 5].map((value) => (
                   <button
@@ -123,7 +123,7 @@ const Deals = () => {
           </SwiperSlide>
           <SwiperSlide>
             <div className='card text-center bg-[#F7F5F0]'>
-              <a href="" className='image-link h-[360px] block overflow-hidden mb-[12px]'><img src="/images/02.png" alt="Deal 1" className='mb-4 w-full h-full object-cover hover:scale-105 transition-transform duration-200' /></a>
+              <a href="" className='image-link h-[360px] block overflow-hidden mb-[12px]'><img src="./images/02.png" alt="Deal 1" className='mb-4 w-full h-full object-cover hover:scale-105 transition-transform duration-200' /></a>
               <div className="flex items-center justify-center mb-[8px] gap-1">
                 {[1, 2, 3, 4, 5].map((value) => (
                   <button
@@ -144,7 +144,7 @@ const Deals = () => {
           </SwiperSlide>
           <SwiperSlide>
             <div className='card text-center bg-[#F7F5F0]'>
-              <a href="" className='image-link h-[360px] block overflow-hidden mb-[12px]'><img src="/images/03.png" alt="Deal 1" className='mb-4 w-full h-full object-cover hover:scale-105 transition-transform duration-200' /></a>
+              <a href="" className='image-link h-[360px] block overflow-hidden mb-[12px]'><img src="./images/03.png" alt="Deal 1" className='mb-4 w-full h-full object-cover hover:scale-105 transition-transform duration-200' /></a>
               <div className="flex items-center justify-center mb-[8px] gap-1">
                 {[1, 2, 3, 4, 5].map((value) => (
                   <button
@@ -165,7 +165,7 @@ const Deals = () => {
           </SwiperSlide>
           <SwiperSlide>
             <div className='card text-center bg-[#F7F5F0]'>
-              <a href="" className='image-link h-[360px] block overflow-hidden mb-[12px]'><img src="/images/04.png" alt="Deal 1" className='mb-4 w-full h-full object-cover hover:scale-105 transition-transform duration-200' /></a>
+              <a href="" className='image-link h-[360px] block overflow-hidden mb-[12px]'><img src="./images/04.png" alt="Deal 1" className='mb-4 w-full h-full object-cover hover:scale-105 transition-transform duration-200' /></a>
               <div className="flex items-center justify-center mb-[8px] gap-1">
                 {[1, 2, 3, 4, 5].map((value) => (
                   <button
@@ -188,7 +188,7 @@ const Deals = () => {
       </div>
       <div className="md:hidden mx-[110px]">
         <div className='card text-center bg-[#F7F5F0] mb-[24px]'>
-          <a href="" className='image-link h-[360px] block overflow-hidden mb-[12px]'><img src="/images/01.png" alt="Deal 1" className='mb-4 w-full h-full object-cover hover:scale-105 transition-transform duration-200' /></a>
+          <a href="" className='image-link h-[360px] block overflow-hidden mb-[12px]'><img src="./images/01.png" alt="Deal 1" className='mb-4 w-full h-full object-cover hover:scale-105 transition-transform duration-200' /></a>
           <div className="flex items-center justify-center mb-[8px] gap-1">
             {[1, 2, 3, 4, 5].map((value) => (
               <button
@@ -207,7 +207,7 @@ const Deals = () => {
           <p className='text-black text-[18px] mb-[12px]'>$99.99 <span className='text-gray-500 text-[18px] line-through text-sm'>$149.99</span></p>
         </div>
         <div className='card text-center bg-[#F7F5F0] mb-[24px]'>
-          <a href="" className='image-link h-[360px] block overflow-hidden mb-[12px]'><img src="/images/02.png" alt="Deal 1" className='mb-4 w-full h-full object-cover hover:scale-105 transition-transform duration-200' /></a>
+          <a href="" className='image-link h-[360px] block overflow-hidden mb-[12px]'><img src="./images/02.png" alt="Deal 1" className='mb-4 w-full h-full object-cover hover:scale-105 transition-transform duration-200' /></a>
           <div className="flex items-center justify-center mb-[8px] gap-1">
             {[1, 2, 3, 4, 5].map((value) => (
               <button
@@ -226,7 +226,7 @@ const Deals = () => {
           <p className='text-black text-[18px] mb-[12px]'>$99.99 <span className='text-gray-500 text-[18px] line-through text-sm'>$149.99</span></p>
         </div>
         <div className='card text-center bg-[#F7F5F0] mb-[24px]'>
-          <a href="" className='image-link h-[360px] block overflow-hidden mb-[12px]'><img src="/images/03.png" alt="Deal 1" className='mb-4 w-full h-full object-cover hover:scale-105 transition-transform duration-200' /></a>
+          <a href="" className='image-link h-[360px] block overflow-hidden mb-[12px]'><img src="./images/03.png" alt="Deal 1" className='mb-4 w-full h-full object-cover hover:scale-105 transition-transform duration-200' /></a>
           <div className="flex items-center justify-center mb-[8px] gap-1">
             {[1, 2, 3, 4, 5].map((value) => (
               <button
@@ -245,7 +245,7 @@ const Deals = () => {
           <p className='text-black text-[18px] mb-[12px]'>$99.99 <span className='text-gray-500 text-[18px] line-through text-sm'>$149.99</span></p>
         </div>
         <div className='card text-center bg-[#F7F5F0] mb-[24px]'>
-          <a href="" className='image-link h-[360px] block overflow-hidden mb-[12px]'><img src="/images/04.png" alt="Deal 1" className='mb-4 w-full h-full object-cover hover:scale-105 transition-transform duration-200' /></a>
+          <a href="" className='image-link h-[360px] block overflow-hidden mb-[12px]'><img src="./images/04.png" alt="Deal 1" className='mb-4 w-full h-full object-cover hover:scale-105 transition-transform duration-200' /></a>
           <div className="flex items-center justify-center mb-[8px] gap-1">
             {[1, 2, 3, 4, 5].map((value) => (
               <button

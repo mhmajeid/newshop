@@ -15,7 +15,7 @@ const CustomerReviews = () => {
         <div className="grid grid-cols-1 md:grid-cols-2 gap-[64px] items-center">
           
           <div className='image hidden md:block'>
-            <img src="/images/review.png" alt="Customer Reviews" className='w-full h-full object-cover' />
+            <img src="./images/review.png" alt="Customer Reviews" className='w-full h-full object-cover' />
           </div>
           <div className='mx-[47px] md:mx-auto'>
             <Swiper
@@ -34,7 +34,7 @@ const CustomerReviews = () => {
                   <img className='mt-[1rem] float-right' src="/icons/quote-down.svg" alt="" />
                   <div className='clear-both'></div>
                   <div className="flex items-center gap-1">
-                    <figure><img src="/images/customer.png" alt="Customer" /></figure>
+                    <figure><img src="./images/customer.png" alt="Customer" /></figure>
                     <figcaption className='text-[20px]'>Fatma Hamid <br /><span className='text-gray-500 text-[16px]'>CEO</span></figcaption>
                   </div>
                 </div>
@@ -46,7 +46,7 @@ const CustomerReviews = () => {
                   <img className='mt-[1rem] float-right' src="/icons/quote-down.svg" alt="" />
                   <div className='clear-both'></div>
                   <div className="flex items-center gap-1">
-                    <figure><img src="/images/customer.png" alt="Customer" /></figure>
+                    <figure><img src="./images/customer.png" alt="Customer" /></figure>
                     <figcaption className='text-[20px]'>Fatma Hamid <br /><span className='text-gray-500 text-[16px]'>CEO</span></figcaption>
                   </div>
                 </div>
@@ -58,7 +58,7 @@ const CustomerReviews = () => {
                   <img className='mt-[1rem] float-right' src="/icons/quote-down.svg" alt="" />
                   <div className='clear-both'></div>
                   <div className="flex items-center gap-1">
-                    <figure><img src="/images/customer.png" alt="Customer" /></figure>
+                    <figure><img src="./images/customer.png" alt="Customer" /></figure>
                     <figcaption className='text-[20px]'>Fatma Hamid <br /><span className='text-gray-500 text-[16px]'>CEO</span></figcaption>
                   </div>
                 </div>
@@ -70,7 +70,7 @@ const CustomerReviews = () => {
                   <img className='mt-[1rem] float-right' src="/icons/quote-down.svg" alt="" />
                   <div className='clear-both'></div>
                   <div className="flex items-center gap-1">
-                    <figure><img src="/images/customer.png" alt="Customer" /></figure>
+                    <figure><img src="./images/customer.png" alt="Customer" /></figure>
                     <figcaption className='text-[20px]'>Fatma Hamid <br /><span className='text-gray-500 text-[16px]'>CEO</span></figcaption>
                   </div>
                 </div>
