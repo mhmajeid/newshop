@@ -1,15 +1,11 @@
 "use client"
 import React, { useRef, useState } from 'react';
-// Import Swiper React components
 import { Swiper, SwiperSlide } from 'swiper/react';
-
-// Import Swiper styles
+import "swiper/css";
 
 import { Pagination } from 'swiper/modules';
 
 const CustomerReviews = () => {
-  const swiperRef = useRef(null);
-
   return (
     <div className='customer-reviews-section bg-[#F5DFBD] py-[44px] mt-[80px]'>
       <div className="container mx-auto">
@@ -20,18 +16,11 @@ const CustomerReviews = () => {
           </div>
           <div className='mx-[47px] md:mx-auto'>
             <Swiper
-              slidesPerView={1}
-              spaceBetween={10}
               pagination={{
                 clickable: true,
               }}
               modules={[Pagination]}
               className="mySwiper"
-              loop={false}
-              onSwiper={(sw)=> (swiperRef.current = sw)}
-              observer
-              observeParents
-              onResize={(sw)=> sw.update()}
             >
               <SwiperSlide>
                 <div className='item'>
