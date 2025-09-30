@@ -8,7 +8,7 @@ import "swiper/css";
 const Slider = () => {
   return (
     <>
-      <Swiper className="Slider-intro">
+      <Swiper className="slider-intro">
         <SwiperSlide>
           <div className="item h-[100%] relative">
             <Image src="./slider/hero.jpg" height={500} width={10000} alt="Image 1" objectFit="cover" />
