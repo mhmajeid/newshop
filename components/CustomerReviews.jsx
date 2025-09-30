@@ -26,6 +26,11 @@ const CustomerReviews = () => {
               }}
               modules={[Pagination]}
               className="mySwiper"
+              loop={false}
+              onSwiper={(sw)=> (swiperRef.current = sw)}
+              observer
+              observeParents
+              onResize={(sw)=> sw.update()}
             >
               <SwiperSlide>
                 <div className='item'>
