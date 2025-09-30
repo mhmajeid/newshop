@@ -88,7 +88,7 @@ const Categorys = () => {
             </SwiperSlide>
           </Swiper>
         </div>
-        <div className="md:hidden mx-[110px]">
+        <div className="md:hidden mx-[30px]">
           <div className='card text-center bg-[#F7F5F0] mb-[24px]'>
             <a href="" className='image-link h-[360px] block overflow-hidden mb-[12px]'><img src="./images/cat01.png" alt="cat01 1" className='mb-4 w-full h-full object-cover hover:scale-105 transition-transform duration-200' /></a>
             <h3 className='text-lg font-semibold text-[24px] mb-[8px] hover:text-red-600 transition-colors duration-200'><a href="">Men Clothes</a></h3>
