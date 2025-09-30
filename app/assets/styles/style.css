@@ -1,0 +1,29 @@
+.swiper-pagination {
+  bottom: 0;
+  top: auto;
+}
+
+.swiper-pagination-bullet {
+  width: 16px;
+  height: 16px;
+  border-radius: 0;
+  background: #D9D9D9;
+  opacity: 1;
+}
+
+.swiper-pagination-bullet-active {
+  background: #14142A;
+}
+
+.mySwiper {
+  padding-bottom: 32px;
+}
+
+.customer-reviews-section .swiper-pagination-bullet {
+  background: #9292A1
+}
+
+
+.customer-reviews-section .swiper-pagination-bullet-active {
+  background: #14142A;
+}
