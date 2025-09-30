@@ -1,17 +1,12 @@
+"use client"
 import React, { useRef, useState } from 'react';
-// Import Swiper React components
 import { Swiper, SwiperSlide } from 'swiper/react';
-
-// Import Swiper styles
-import 'swiper/css';
-import 'swiper/css/pagination';
-
+import "swiper/css";
 
 import { Pagination } from 'swiper/modules';
 
 const CustomerReviews = () => {
   return (
-    <>
     <div className='customer-reviews-section bg-[#F5DFBD] py-[44px] mt-[80px]'>
       <div className="container mx-auto">
         <div className="grid grid-cols-1 md:grid-cols-2 gap-[64px] items-center">
@@ -20,9 +15,21 @@ const CustomerReviews = () => {
             <img src="./images/review.png" alt="Customer Reviews" className='w-full h-full object-cover' />
           </div>
           <div className='mx-[47px] md:mx-auto'>
-            <Swiper pagination={true} modules={[Pagination]} className="mySwiper1">
+            <Swiper
+              spaceBetween={30}
+        centeredSlides={true}
+        autoplay={{
+          delay: 2500,
+          disableOnInteraction: false,
+        }}
+        pagination={{
+          clickable: true,
+        }}
+        modules={[Autoplay, Pagination]}
+        className="mySwiper"
+            >
               <SwiperSlide>
-                <div className='item w-full'>
+                <div className='item'>
                   <img className='mb-[1rem]' src="./icons/quote-up.svg" alt="" />
                   <p className='text-[24px]'>I never thought shopping online could be this enjoyable.  it's organized, and every click feels purposeful. Finally, an ecommerce experience that feels as good as it looks!</p>
                   <img className='mt-[1rem] float-right' src="./icons/quote-down.svg" alt="" />
@@ -74,7 +81,6 @@ const CustomerReviews = () => {
         </div>
       </div>
     </div>
-    </>
   )
 }
 
