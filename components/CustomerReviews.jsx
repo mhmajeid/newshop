@@ -1,12 +1,17 @@
-"use client"
 import React, { useRef, useState } from 'react';
+// Import Swiper React components
 import { Swiper, SwiperSlide } from 'swiper/react';
-import "swiper/css";
+
+// Import Swiper styles
+import 'swiper/css';
+import 'swiper/css/pagination';
+
 
 import { Pagination } from 'swiper/modules';
 
 const CustomerReviews = () => {
   return (
+    <>
     <div className='customer-reviews-section bg-[#F5DFBD] py-[44px] mt-[80px]'>
       <div className="container mx-auto">
         <div className="grid grid-cols-1 md:grid-cols-2 gap-[64px] items-center">
@@ -15,13 +20,7 @@ const CustomerReviews = () => {
             <img src="./images/review.png" alt="Customer Reviews" className='w-full h-full object-cover' />
           </div>
           <div className='mx-[47px] md:mx-auto'>
-            <Swiper
-              pagination={{
-                clickable: true,
-              }}
-              modules={[Pagination]}
-              className="mySwiper"
-            >
+            <Swiper pagination={true} modules={[Pagination]} className="mySwiper1">
               <SwiperSlide>
                 <div className='item w-full'>
                   <img className='mb-[1rem]' src="./icons/quote-up.svg" alt="" />
@@ -75,6 +74,7 @@ const CustomerReviews = () => {
         </div>
       </div>
     </div>
+    </>
   )
 }
 
