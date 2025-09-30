@@ -342,7 +342,7 @@ const Products = () => {
         {TABS.map(
           (tab) =>
             active === tab.id && (
-              <div key={tab.id} className="grid grid-cols-1 sm:grid-cols-3 lg:grid-cols-4 gap-6 mx-[110px] md:mx-auto">
+              <div key={tab.id} className="grid grid-cols-1 sm:grid-cols-3 lg:grid-cols-4 gap-6 mx-[30px] md:mx-auto">
                 {tab.products.map((p) => (
                   <div
                     key={p.id}
