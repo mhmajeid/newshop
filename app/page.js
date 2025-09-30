@@ -9,6 +9,7 @@ import Deals from "@/components/Deals";
 import Categorys from "@/components/Categorys";
 import Products from "@/components/Products";
 import CustomerReviews from "@/components/CustomerReviews";
+
 import Footer from "@/components/Footer";
 
 export default function Home() {
